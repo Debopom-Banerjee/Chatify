@@ -14,7 +14,7 @@ $page = isset($_GET['page']) ? $_GET['page'] : 'home';
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo ucwords(str_replace('_',' ',$page)) ?> |Messaging Web Application</title>
+    <title><?php echo ucwords(str_replace('_',' ',$page)) ?> Chatify</title>
     <link rel="stylesheet" href="./fontawesome/css/all.min.css">
     <link rel="stylesheet" href="./css/bootstrap.min.css">
     <link rel="stylesheet" href="./css/custom.css">
@@ -28,7 +28,7 @@ $page = isset($_GET['page']) ? $_GET['page'] : 'home';
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary bg-gradient" id="topNavBar">
         <div class="container">
             <a class="navbar-brand" href="./">
-           Messaging Web Application
+            Chatify: Connect and Chat seamlessly!
             </a>
             <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>

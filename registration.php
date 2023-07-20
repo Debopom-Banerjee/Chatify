@@ -38,7 +38,7 @@ $page = isset($_GET['page']) ? $_GET['page'] : 'home';
 <body class="bg-light bg-gradient">
    <div class="h-100 d-flex jsutify-content-center align-items-center">
        <div class='w-100'>
-        <h3 class="py-5 text-center">Messaging Web Application - User Registration</h3>
+        <h3 class="py-5 text-center">Chatify - User Registration</h3>
         <div class="card my-3 col-md-8 offset-md-2">
             <div class="card-body">
                 <form action="" id="register-form">

@@ -1,14 +1,14 @@
 
 <div class="h-100 d-flex flex-column">
     <div class="col-12">
-            <div class="hs-5 fw-bold flex-grow-1 col-auto pe-3">Welcome to Messaging Web App</div>
+            <div class="hs-5 fw-bold flex-grow-1 col-auto pe-3">Chatify: text message seamlessly</div>
     </div>
     <hr>
     <div class="col-12 flex-grow-1">
         <div class="row h-100">
             <div class="col-md-4 h-100 d-flex flex-column">
                 <div class="col-auto position-relative" id="search-area">
-                    <div class="form-group">
+                    <div class="form-group"> 
                         <div class="input-group">
                             <input type="search" id="search" class="form-control rounded-0" autocomplete="off" placeholder="Search...">
                             <button type="button" class="btn bg-transparent" style="margin-left: -40px; z-index: 100;" onclick="$('#search').val('').trigger('focus')">
