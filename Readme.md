@@ -14,3 +14,9 @@ Chatify is a real-time messaging web application developed using PHP and MySQL. 
 Here are some of its working UI :
 
 
+![image](https://github.com/Debopom-Banerjee/Chatify/assets/94488557/b313d13d-0d94-4377-aa8f-942e8bd49b9e)
+
+![image](https://github.com/Debopom-Banerjee/Chatify/assets/94488557/063b8adf-6b19-47c8-9998-526f96b44c61)
+
+![image](https://github.com/Debopom-Banerjee/Chatify/assets/94488557/0e6778e6-f5aa-475b-9c8a-a2a44f9243c5)
+
