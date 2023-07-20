@@ -10,3 +10,7 @@ Chatify is a real-time messaging web application developed using PHP and MySQL. 
 
 - User Contacts and Friends List:
   Users can add other users to their contacts or friends list. This makes it easy for users to initiate conversations with their preferred contacts.
+
+Here are some of its working UI :
+
+
